@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Prettify Scala Structure",
+    "command": "pretty_struct",
+  },
+]
