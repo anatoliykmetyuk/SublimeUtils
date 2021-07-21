@@ -3,4 +3,12 @@
     "caption": "Prettify Scala Structure",
     "command": "pretty_struct",
   },
+  {
+    "caption": "Copy Dotty GitHub File Link",
+    "command": "copy_github_link",
+  },
+  {
+    "caption": "Copy Dotty GitHub Line Link",
+    "command": "copy_github_line",
+  },
 ]
